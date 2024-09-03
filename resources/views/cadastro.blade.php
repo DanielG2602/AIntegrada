@@ -1,6 +1,6 @@
 @extends('layouts.main')
 
-@section('title', 'Login')
+@section('title', 'Cadastro')
 
 @section('content')
 
@@ -12,7 +12,7 @@
 <div class="content">
 
     <img src="img/senac-logo-4.png" class="logo">
-    
+
     <form action="" method="post">
 
     <h1>
