@@ -13,7 +13,7 @@
 
     <img src="img/senac-logo-4.png" class="logo">
 
-    <form action="" method="post">
+    <form action="" method="get">
 
     <h1>
         CADASTRO
