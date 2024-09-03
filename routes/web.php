@@ -2,7 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 
-Route::get('/login', function () {
+Route::post('/login', function () {
     return view('welcome');
 });
 
