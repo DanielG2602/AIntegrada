@@ -27,7 +27,7 @@
     <input type="password" name="senha"id="senha" placeholder="Digite sua senha">
     <br>
     <input type="submit" value="Entrar" id="btn">
-    <p id="link"><a href="/login">Fazer Login</a></p>
+    <p id="link"><a href="{{route('login.index')}}">Fazer Login</a></p>
 
     </form>
 
