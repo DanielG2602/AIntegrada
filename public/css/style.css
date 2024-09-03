@@ -35,8 +35,14 @@ form {
     padding: 2rem;
 }
 
+form label {
+    color: #005495;
+
+}
+
 form h1 {
     text-align: center;
+    color: #005495;
 }
 
 form #email {
@@ -55,11 +61,13 @@ form #btn {
     padding: 5px;
     border-radius: 5px;
     border-width: 1px;
+    background-color: #005495;
+    color: #fff;
 }
 
 form #btn:hover{
-    background-color: black;
-    color: white;
+    background-color: #001a5f;
+    color: #fff;
 }
 
 form #link {
